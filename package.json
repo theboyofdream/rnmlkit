@@ -3,7 +3,6 @@
     "@bam.tech/react-native-image-resizer": "3.0.10",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/native-stack": "6.10.0",
-    "@shopify/react-native-skia": "^1.6.0",
     "@tamagui/config": "^1.114.1",
     "@tamagui/core": "^1.114.1",
     "@tamagui/font-inter": "^1.114.1",
@@ -32,7 +31,8 @@
     "react-native-vision-camera": "^4.5.2",
     "react-native-worklets-core": "^1.5.0",
     "tamagui": "^1.114.1",
-    "vision-camera-resize-plugin": "^3.1.0"
+    "vision-camera-resize-plugin": "^3.1.0",
+    "@shopify/react-native-skia": "1.2.3"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",

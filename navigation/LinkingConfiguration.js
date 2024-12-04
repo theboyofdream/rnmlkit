@@ -26,6 +26,7 @@ export default {
             Splash: "splash",
             Home: "home",
             TextRecognition: "text-recognition",
+            PoseDetection: "pose-detection",
             NotFound: "*",
         },
     },

@@ -6,6 +6,7 @@ import {
     Github,
     Linkedin,
     Mail,
+    PersonStanding,
     Scan,
     ScanFace,
     TextSelect,
@@ -55,6 +56,12 @@ export function SplashScreen() {
                 icon={FileScan}
                 title="Docs scanner"
                 subTitle="Detect documents from images"
+            />
+            <CustomListItem
+                icon={PersonStanding}
+                title="Pose Detection"
+                subTitle="Detect documents from images"
+                onPress={() => navigation.navigate("PoseDetection")}
             />
 
             <YStack gap="$2.5" py="$10" justifyContent="center" alignItems="center">
